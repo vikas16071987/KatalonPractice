@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__dcl-product-image-container</name>
+   <tag></tag>
+   <elementGuidId>abc1f014-26ec-4b55-85a7-c2a0f0af0e9c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#anonCarousel4 > ol.a-carousel > li.a-carousel-card.dcl-carousel-element > div.dcl-product-wrapper > div.a-cardui.dcl-product > a.a-link-normal.dcl-product-link > div.dcl-product-image-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='anonCarousel4']/ol/li[2]/div/div/a/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;anonCarousel4&quot;)/ol[@class=&quot;a-carousel&quot;]/li[@class=&quot;a-carousel-card dcl-carousel-element&quot;]/div[@class=&quot;dcl-product-wrapper&quot;]/div[@class=&quot;a-cardui dcl-product&quot;]/a[@class=&quot;a-link-normal dcl-product-link&quot;]/div[@class=&quot;dcl-product-image-container&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Men's Gazelle Shoes adidas Men's Gazelle Shoes $100.00&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>24633880-5333-4511-b270-61de91f6dbc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dcl-product-image-container</value>
+      <webElementGuid>e3605164-ff2a-4a9d-b7f0-f96825b825db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;anonCarousel4&quot;)/ol[@class=&quot;a-carousel&quot;]/li[@class=&quot;a-carousel-card dcl-carousel-element&quot;]/div[@class=&quot;dcl-product-wrapper&quot;]/div[@class=&quot;a-cardui dcl-product&quot;]/a[@class=&quot;a-link-normal dcl-product-link&quot;]/div[@class=&quot;dcl-product-image-container&quot;]</value>
+      <webElementGuid>9f5ca404-8fb7-4ebc-b798-8a4263c33ade</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='anonCarousel4']/ol/li[2]/div/div/a/div</value>
+      <webElementGuid>146cdfd5-5092-46eb-b897-bcf06a8f01c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous Page'])[3]/following::div[5]</value>
+      <webElementGuid>4dced8ef-ef3d-4f02-9b7a-1b04bb16ede8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop all'])[1]/following::div[11]</value>
+      <webElementGuid>6219e27f-9cf1-443f-83cc-3c8f8a9ca08a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$39.99'])[1]/preceding::div[1]</value>
+      <webElementGuid>1cf4259f-c6c0-4c92-9fd4-955ea6394182</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$'])[13]/preceding::div[1]</value>
+      <webElementGuid>ab53c3a1-ac0c-47b7-b03f-8ec58adc67cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[2]/div/div/div/div/div[2]/div/ol/li[2]/div/div/a/div</value>
+      <webElementGuid>9e92b6c5-2a90-4a49-a5c8-0583b2b503ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='anonCarousel6']/ol/li[4]/div/div/a/div</value>
+      <webElementGuid>08dfbae4-5e30-4031-98b7-6202e76ca2d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$'])[38]/following::div[3]</value>
+      <webElementGuid>1221e5b0-db1d-46d2-8afb-034318415136</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$455.00'])[1]/following::div[3]</value>
+      <webElementGuid>75b3918b-fe1d-4c14-a80b-367c232c514e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$100.00'])[1]/preceding::div[1]</value>
+      <webElementGuid>a2b578e8-f653-446c-ab2d-fa65ad3b77c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div[2]/div/div/div/div/div[2]/div/ol/li[4]/div/div/a/div</value>
+      <webElementGuid>8dcf4010-6537-42c9-ad0e-19673abcc0a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

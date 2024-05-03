@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Your AccountAccount Orders Keep Shopping For Recommendations Browsing History Recalls and Product Safety Alerts Watchlist Video Purchases  Rentals Kindle Unlimited Content Library Devices Subscribe  Save Items Member</name>
+   <tag></tag>
+   <elementGuidId>31e9b5ad-596b-4974-891e-4349ea2de278</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-al-your-account']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#nav-al-your-account</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Your AccountAccount Orders Keep Shopping For Recommendations Browsing History Re&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fe8d99ee-e464-4a4f-9a1a-059dae66939e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>nav-al-your-account</value>
+      <webElementGuid>0116169a-7b88-4fcc-aaf5-e0c66550f844</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-al-column nav-template nav-flyout-content nav-tpl-itemList nav-flyout-accessibility</value>
+      <webElementGuid>09c7234c-7156-4c07-b421-22407d53bf8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Your AccountAccount Orders Keep Shopping For Recommendations Browsing History Recalls and Product Safety Alerts Watchlist Video Purchases &amp; Rentals Kindle Unlimited Content Library Devices Subscribe &amp; Save Items Memberships &amp; Subscriptions Prime Membership Amazon Credit Cards Music Library Start a Selling Account Create your free business account Customer Service Switch Accounts Sign Out</value>
+      <webElementGuid>1c607bc5-c080-4573-bd40-bc1f363cbbe8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-al-your-account&quot;)</value>
+      <webElementGuid>3c764e97-b281-4a8e-bc6a-3974d73d7c93</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='nav-al-your-account']</value>
+      <webElementGuid>963be6be-5ea6-4901-9f83-60f2ba3fcd6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-al-container']/div[3]</value>
+      <webElementGuid>7217bab0-14ed-41dc-9f5d-997b3fc16ef7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alexa Shopping List'])[1]/following::div[1]</value>
+      <webElementGuid>a8898dc6-1096-4bcd-99ed-30aa2ac8984b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alexa List'])[1]/following::div[2]</value>
+      <webElementGuid>c61134be-e566-4041-9b2f-016b41bf8fbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]</value>
+      <webElementGuid>19b0fd56-9ded-46ee-90dc-ab3d72042413</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'nav-al-your-account' and (text() = 'Your AccountAccount Orders Keep Shopping For Recommendations Browsing History Recalls and Product Safety Alerts Watchlist Video Purchases &amp; Rentals Kindle Unlimited Content Library Devices Subscribe &amp; Save Items Memberships &amp; Subscriptions Prime Membership Amazon Credit Cards Music Library Start a Selling Account Create your free business account Customer Service Switch Accounts Sign Out' or . = 'Your AccountAccount Orders Keep Shopping For Recommendations Browsing History Recalls and Product Safety Alerts Watchlist Video Purchases &amp; Rentals Kindle Unlimited Content Library Devices Subscribe &amp; Save Items Memberships &amp; Subscriptions Prime Membership Amazon Credit Cards Music Library Start a Selling Account Create your free business account Customer Service Switch Accounts Sign Out')]</value>
+      <webElementGuid>9cb127df-0108-4083-8248-cca1e3863e68</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

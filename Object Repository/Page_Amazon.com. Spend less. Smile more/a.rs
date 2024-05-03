@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a</name>
+   <tag></tag>
+   <elementGuidId>cf020d66-f652-40a9-9c6f-af3c74fb297a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='CardInstance-PrJjDnq297fIveuSDMhLA']/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.a-section.a-spacing-none._cropped-image-map_style_image-map__12oiu > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Trade-in offer: Get 20% off Kindle Scribe &amp; an Amazon.com gift card. Terms and Conditions apply.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d1175f28-a089-441f-9728-5cbdf07d5076</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/b/ref=s9_bw_cg_ABERTI_2a1_cta_w/?_encoding=UTF8&amp;node=9187220011&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=merchandised-search-1&amp;pf_rd_t=101&amp;pf_rd_i=21398125011&amp;ref=ods_gw_GW_US_EN_EINK_BO_MAY24-TPR_H5_N_C-4042&amp;pd_rd_w=sy31a&amp;content-id=amzn1.sym.f6ca32bb-5600-46a6-85bf-98646ef3b0a5&amp;pf_rd_p=f6ca32bb-5600-46a6-85bf-98646ef3b0a5&amp;pf_rd_r=DAX756QTZYWZ6566JTNB&amp;pd_rd_wg=nCyW7&amp;pd_rd_r=27094afd-e59a-42d3-8fdf-b8a24f200d60&amp;ref_=pd_hp_d_hero_unk</value>
+      <webElementGuid>9d101a4b-14f3-422f-b5e0-7b526d2cb7d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Trade-in offer: Get 20% off Kindle Scribe &amp; an Amazon.com gift card. Terms and Conditions apply.</value>
+      <webElementGuid>601b75b0-f88c-4462-a3de-19fe14f9986d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CardInstance-PrJjDnq297fIveuSDMhLA&quot;)/div[@class=&quot;a-section a-spacing-none _cropped-image-map_style_fluid-image-map-container__3GBMh&quot;]/div[@class=&quot;a-section a-spacing-none _cropped-image-map_style_image-map__12oiu&quot;]/a[1]</value>
+      <webElementGuid>2895dfb6-5e57-46b4-a841-db23e1f28467</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='CardInstance-PrJjDnq297fIveuSDMhLA']/div/div/a</value>
+      <webElementGuid>359d43e8-2de6-44ff-990c-fbccbc237056</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/b/ref=s9_bw_cg_ABERTI_2a1_cta_w/?_encoding=UTF8&amp;node=9187220011&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=merchandised-search-1&amp;pf_rd_t=101&amp;pf_rd_i=21398125011&amp;ref=ods_gw_GW_US_EN_EINK_BO_MAY24-TPR_H5_N_C-4042&amp;pd_rd_w=sy31a&amp;content-id=amzn1.sym.f6ca32bb-5600-46a6-85bf-98646ef3b0a5&amp;pf_rd_p=f6ca32bb-5600-46a6-85bf-98646ef3b0a5&amp;pf_rd_r=DAX756QTZYWZ6566JTNB&amp;pd_rd_wg=nCyW7&amp;pd_rd_r=27094afd-e59a-42d3-8fdf-b8a24f200d60&amp;ref_=pd_hp_d_hero_unk')]</value>
+      <webElementGuid>199a36e5-099b-4716-b10a-3f09317944b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/div/div/div/div/a</value>
+      <webElementGuid>90243855-d08c-44a1-8d3e-bf4933eb9ca0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/b/ref=s9_bw_cg_ABERTI_2a1_cta_w/?_encoding=UTF8&amp;node=9187220011&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=merchandised-search-1&amp;pf_rd_t=101&amp;pf_rd_i=21398125011&amp;ref=ods_gw_GW_US_EN_EINK_BO_MAY24-TPR_H5_N_C-4042&amp;pd_rd_w=sy31a&amp;content-id=amzn1.sym.f6ca32bb-5600-46a6-85bf-98646ef3b0a5&amp;pf_rd_p=f6ca32bb-5600-46a6-85bf-98646ef3b0a5&amp;pf_rd_r=DAX756QTZYWZ6566JTNB&amp;pd_rd_wg=nCyW7&amp;pd_rd_r=27094afd-e59a-42d3-8fdf-b8a24f200d60&amp;ref_=pd_hp_d_hero_unk']</value>
+      <webElementGuid>e0d390e3-78d1-4520-b267-5213e8c37804</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

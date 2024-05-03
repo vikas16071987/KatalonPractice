@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_125.00_dcl-product-image-container</name>
+   <tag></tag>
+   <elementGuidId>61186dd3-b5c3-4ee5-8b2d-94252b768de4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='anonCarousel3']/ol/li[2]/div/div/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Women's Avery Square Toe Two Strap High Heeled Sandal 40% off Limited time deal $32.94 List: $54.90 The Drop Women's Avery Square Toe Two Strap High Heeled Sandal&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c56fec85-b069-4102-8c21-fd8236f12113</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dcl-product-image-container</value>
+      <webElementGuid>b5a75dc6-1324-4e6c-8c30-46e54a88a35d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;anonCarousel3&quot;)/ol[@class=&quot;a-carousel&quot;]/li[@class=&quot;a-carousel-card dcl-carousel-element&quot;]/div[@class=&quot;dcl-product-wrapper&quot;]/div[@class=&quot;a-cardui dcl-product&quot;]/a[@class=&quot;a-link-normal dcl-product-link&quot;]/div[@class=&quot;dcl-product-image-container&quot;]</value>
+      <webElementGuid>cdb72078-e387-4b69-9fca-13b8ac1fde20</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='anonCarousel3']/ol/li[2]/div/div/a/div</value>
+      <webElementGuid>0fd0bc68-bb3a-474e-a971-791991a6ae88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$125.00'])[1]/following::div[3]</value>
+      <webElementGuid>f95bd521-6ee6-4e3c-83f0-62f1a45b1008</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List:'])[1]/following::div[3]</value>
+      <webElementGuid>1b54f5bf-70b0-45ff-90ce-aaf0e47f80b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Limited time deal'])[2]/preceding::div[2]</value>
+      <webElementGuid>85c31c2d-cb69-41ad-89fe-a7d199ac1f50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$32.94'])[1]/preceding::div[5]</value>
+      <webElementGuid>585c89de-6105-4cf0-a443-c584fcc709bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div/a/div</value>
+      <webElementGuid>bd8ed0c0-0cc4-490c-a4a7-f01239e613ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
